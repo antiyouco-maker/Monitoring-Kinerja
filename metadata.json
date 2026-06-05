@@ -1,0 +1,8 @@
+{
+  "name": "Remix Monitoring Kinerja SAKIP",
+  "description": "Sistem Monitoring Kinerja IKU \u0026 IKK dan Cascading Kinerja terintegrasi database SAKIP untuk Dinas Ketahanan Pangan dan Pertanian Kabupaten Indramayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
